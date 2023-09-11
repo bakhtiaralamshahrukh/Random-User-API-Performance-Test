@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Random-User-API-Performance-Test,5555,867,0,6553,220.26,0.000%,2.77736,4.23,0.36,1560.4
+TOTAL,5555,867,0,6553,220.26,0.000%,2.77736,4.23,0.36,1560.4
